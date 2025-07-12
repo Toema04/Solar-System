@@ -1,3 +1,41 @@
+# 🌌 Solar System – React + TypeScript + Three.js
+
+An interactive and animated 3D Solar System simulation built with **React**, **TypeScript**, **Tailwind CSS**, and **Three.js**, powered by **Vite**.
+
+[🌐 Live Demo]([https://toema04.github.io/Solar-System](https://solar-system-rose-two.vercel.app/))
+
+![Solar System Preview](<img width="1366" height="599" alt="screencapture-solar-system-rose-two-vercel-app-2025-07-12-16_35_16" src="https://github.com/user-attachments/assets/9e75ccc7-e9f1-497a-a293-6e3ad5b0943e" />
+) <!-- Update with correct path if needed -->
+
+---
+
+## 🚀 Overview
+
+This project simulates the Solar System with animated planetary orbits and 3D visuals using Three.js. It’s built with modern frontend technologies and is fully responsive and interactive.
+
+---
+
+## 🧰 Tech Stack
+
+- ⚛️ React 18
+- ⛳ TypeScript 5
+- 🌈 Tailwind CSS 3
+- 🌍 Three.js (via `@types/three`)
+- ⚡ Vite
+- ✅ ESLint, Type Checking
+
+---
+
+## 🎯 Features
+
+- Animated 3D planetary orbits
+- Realistic planet textures
+- Responsive design
+- Optimized Vite build system
+- Clean, component-based architecture
+
+---
+
 # Planet Textures
 
 This directory should contain texture images for all planets:
