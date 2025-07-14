@@ -2,7 +2,7 @@
 
 An interactive and animated 3D Solar System simulation built with **React**, **TypeScript**, **Tailwind CSS**, and **Three.js**, powered by **Vite**.
 
-[🌐 Live Demo]([https://toema04.github.io/Solar-System](https://solar-system-rose-two.vercel.app/))
+[🌐 Live Demo]([[https://toema04.github.io/Solar-System](https://solar-system-rose-two.vercel.app/)](https://solar-system-rose-two.vercel.app/))
 
 ![Solar System Preview](<img width="1366" height="599" alt="screencapture-solar-system-rose-two-vercel-app-2025-07-12-16_35_16" src="https://github.com/user-attachments/assets/9e75ccc7-e9f1-497a-a293-6e3ad5b0943e" />
 ) <!-- Update with correct path if needed -->
